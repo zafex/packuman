@@ -16,7 +16,7 @@
 		<spring.data.version>2.1.10.RELEASE</spring.data.version>
 		<spring.security.version>5.1.6.RELEASE</spring.security.version>
 		<slf4j.version>1.7.26</slf4j.version>
-		<hibernate.core.version>5.4.4.Final</hibernate.core.version>
+		<hibernate.core.version>5.4.24.Final</hibernate.core.version>
 		<jackson.core.version>2.9.9</jackson.core.version>
 		<javax.validation.version>2.0.1.Final</javax.validation.version>
 	</properties>
